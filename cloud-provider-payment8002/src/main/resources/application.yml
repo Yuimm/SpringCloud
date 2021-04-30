@@ -17,6 +17,9 @@ mybatis:
 
 
 eureka:
+  instance:
+    instance-id: payment8002
+    prefer-ip-address: true #鼠标指针移至payment8001名下，会有IP地址提示
   client:
     #表示是否将自己注册进Eurekaserver默认为true。
     register-with-eureka: true
