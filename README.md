@@ -2,11 +2,10 @@
 SpringCloud学习
 内含SpringCloud Hoxton和SpringCloud alibaba
 
-笔记地址：https://www.hechuanteng.com/posts/springcloud-01.html
-          https://www.hechuanteng.com/posts/springcloud-02.html
+笔记地址：【01】https://www.hechuanteng.com/posts/springcloud-01.html
+          【02】https://www.hechuanteng.com/posts/springcloud-02.html
 
 或       
-
           【01】https://yuimm.gitee.io/posts/springcloud-01.html
           【02】https://yuimm.gitee.io/posts/springcloud-02.html
 
