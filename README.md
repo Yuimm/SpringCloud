@@ -34,3 +34,17 @@ cloud-provider-hygtrix-payment8001  : Hystrix 服务者模块
 cloud-consumer-feign-hystrix-order80  : Hystrix 消费者模块
 
 cloud-consumer-hystrix-dashboard9001  : Hystrix 图形化模块
+
+cloud-gateway-gateway9527  : Gateway 网关模块
+
+cloud-config-center-3344  : Config 配置总控中心模块
+
+cloud-config-client-3355  : Config 客户端配置模块
+
+cloud-config-client-3366  : Config 客户端配置模块2 动态刷新全局广播
+
+cloud-stream-rabbitmq-provider8801  : Stream 消息驱动之生产者模块
+
+cloud-stream-rabbitmq-consumer8802  : Stream 消息驱动之消费者模块
+
+cloud-stream-rabbitmq-consumer8802  : Stream 消息驱动之消费者模块2
