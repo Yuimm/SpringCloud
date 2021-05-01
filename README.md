@@ -2,8 +2,12 @@
 SpringCloud学习
 内含SpringCloud Hoxton和SpringCloud alibaba
 
-笔记地址：https://www.hechuanteng.com/posts/springcloud.html 或 
-        https://yuimm.gitee.io/posts/springcloud.html
+笔记地址：【01】https://www.hechuanteng.com/posts/springcloud-01.html
+         【02】https://www.hechuanteng.com/posts/springcloud-02.html
+
+或        
+        【01】https://yuimm.gitee.io/posts/springcloud-01.html
+        【02】https://yuimm.gitee.io/posts/springcloud-02.html
 
 视频地址：https://www.bilibili.com/video/BV18E411x7eT
 
@@ -48,3 +52,9 @@ SpringCloud学习
 `cloud-stream-rabbitmq-consumer8802`  : Stream 消息驱动之消费者模块
 
 `cloud-stream-rabbitmq-consumer8802`  : Stream 消息驱动之消费者模块2
+
+`cloudalibaba-provider-payment9001`  : Nacos 服务者模块
+
+`cloudalibaba-provider-payment9002`  : Nacos 服务者模块2
+
+`cloudalibaba-consumer-nacos-order83`  : Nacos 消费者模块
